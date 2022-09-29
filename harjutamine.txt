@@ -1,2 +1,6 @@
 GitHub on lehekülg, mis annab inimestele koha, kus koodi hoida ning jälgida ja haldada muutusi, mis nende koodile tehakse. 
 Seda kasutavad tarkvaraarendajad ja igasugused programmeerijad.
+
+Mina saan kasutada Githubi kasutada samamoodi koodi haldamiseks ning teiste huvitavate projektide leidmiseks. Ma saan kasutada githubi telefonis või arvutis kodutööde ja isiklike projektide jaoks.
+
+GitHubi asutasid Chris Wanstrath, P. J. Hyett, Tom Preston-Werner ja Scott Chacon aastal 2008, lehekülg sai alguse samal aastal.

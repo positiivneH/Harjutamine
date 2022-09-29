@@ -1,0 +1,2 @@
+GitHub on lehekülg, mis annab inimestele koha, kus koodi hoida ning jälgida ja haldada muutusi, mis nende koodile tehakse. 
+Seda kasutavad tarkvaraarendajad ja igasugused programmeerijad.
